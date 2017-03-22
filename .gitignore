@@ -90,4 +90,4 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 
-GoogleService-info.plist
+PokeFinder/GoogleService-info.plist
